@@ -7,6 +7,7 @@ Django==6.0.4
 django-cors-headers==4.9.0
 djangorestframework==3.17.1
 filelock==3.25.2
+gunicorn==25.3.0
 idna==3.11
 packaging==26.0
 pipenv==2026.5.2
