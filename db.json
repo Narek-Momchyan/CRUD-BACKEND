@@ -1,0 +1,22 @@
+{
+    "students": [
+        {
+            "id": "7",
+            "fullName": "Ani Gevorgyan",
+            "facultet": "Informatiks",
+            "age": "19",
+            "phone": "0-911-000-111",
+            "email": "ani.gev@gmail.com",
+            "about": "Anin arajin kursi usanogh e, vov sksum e Web dizayni ughin։ Na kreativ e ev sirum e steghtsel gexecik interfeysner։"
+        },
+        {
+            "id": "5900",
+            "fullName": "Narek Momchyan",
+            "facultet": "Ekonomika",
+            "age": "22",
+            "phone": "0-444-333-222",
+            "email": "narekmomchyan80@gmail.com",
+            "about": "sdcvsz"
+        }
+    ]
+}
